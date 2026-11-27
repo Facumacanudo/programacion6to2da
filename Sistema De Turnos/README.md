@@ -153,8 +153,8 @@ classDiagram
     Main --> Database : Modifica
     Main --> Functions : Utiliza
     Main --> Pantallas : Utiliza
-    Pantallas --> Functions : usa
-    Functions --> Database : Modifica
+    Pantallas --> Functions : Utiliza
+    Functions --> Database : Utiliza
     Database o-- Persona : Modifica
     Database o-- Turno : Modifica
     Turno --> Persona : pertenece a
