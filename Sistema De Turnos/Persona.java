@@ -1,6 +1,7 @@
 /**
  * RESPONSABILIDAD: representar a una persona y validar sus datos.
  * El DNI identifica a la persona y no se puede cambiar una vez creada.
+ //Aca solo modifique la clase persona que realizamos en clase
  */
 public class Persona {
 
