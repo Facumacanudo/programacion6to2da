@@ -150,13 +150,13 @@ classDiagram
         -String motivo
     }
 
-    Main --> Database : crea
-    Main --> Functions : crea
-    Main --> Pantallas : crea
+    Main --> Database : Modifica
+    Main --> Functions : Utiliza
+    Main --> Pantallas : Utiliza
     Pantallas --> Functions : usa
-    Functions --> Database : usa
-    Database o-- Persona : 0..*
-    Database o-- Turno : 0..*
+    Functions --> Database : Modifica
+    Database o-- Persona : Modifica
+    Database o-- Turno : Modifica
     Turno --> Persona : pertenece a
 ```
 
