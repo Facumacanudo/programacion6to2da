@@ -2,7 +2,7 @@
 
 # Sistema de Turnos
 
-**Aplicación de consola en Java para registrar personas, asignar turnos y atender por orden de llegada.**
+**Aplicación de consola en Java para registrar personas, asignar turnos y atender por orden de llegada.**<br>
 Profesora: Dolores Bengochea
 
 
