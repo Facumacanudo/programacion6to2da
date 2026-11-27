@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎫 Sistema de Turnos
+# Sistema de Turnos
 
 **Aplicación de consola en Java para registrar personas, asignar turnos y atender por orden de llegada.**
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 📑 Contenido
+##  Contenido
 
 - [Sobre el proyecto](#-sobre-el-proyecto)
 - [Funcionalidades](#-funcionalidades)
@@ -46,7 +46,7 @@ Trabajo práctico de Programación que integra **programación estructurada**, *
 | `6` | Cancelar turno | Cancela un turno pendiente por su número, previa confirmación. |
 | `0` | Salir | Termina el programa. |
 
-## 🚀 Ejecución
+##  Ejecución
 
 **Requisitos:** Java 8 o superior. No usa librerías externas.
 
@@ -176,7 +176,7 @@ classDiagram
 | peek | `peek` | Ver quién sigue |
 | quitar uno | `remove` | Cancelar turno |
 
-## ✅ Validaciones
+##  Validaciones
 
 | Dato | Regla | Mensaje si falla |
 |---|---|---|
@@ -188,7 +188,7 @@ classDiagram
 | Atender, ver o cancelar | Si no hay datos, se avisa sin cerrar el programa | No hay turnos pendientes / No hay un turno pendiente con ese número |
 | Menú | Solo se aceptan números del 0 al 6 | Opción inválida. Elija de 0 a 6 |
 
-## 🧪 Pruebas
+##  Pruebas
 
 ### Prueba de escritorio
 
@@ -241,9 +241,9 @@ Seguimiento de la cola con tres turnos:
 - [ ] Guardar los datos en un archivo para conservarlos entre ejecuciones.
 - [ ] Agregar fecha y hora a los turnos.
 - [ ] Incorporar prioridades (por ejemplo, adultos mayores) con una cola de prioridad.
-- [ ] Permitir varios puestos de atención.
 
-## 👤 Autor
+## Autor
 
 **Facundo Lopez Mendoza**
 Programación · 6to 2da · G1
+Profesora Dolores Bengochea
