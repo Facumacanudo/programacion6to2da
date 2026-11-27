@@ -3,8 +3,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * Esto solo es para simular un archivo el cual guardar los datos, para evitar escribir demaciado codigo
- * en los demas archivos.
+ * Esto solo es para simular un archivo el cual guardar los datos
  * RESPONSABILIDAD: guardar los datos (simula una base de datos).
  * Solo guarda y entrega datos: no valida ni muestra nada.
  *
