@@ -3,7 +3,7 @@
 # Sistema de Turnos
 
 **Aplicación de consola en Java para registrar personas, asignar turnos y atender por orden de llegada.**<br>
-Profesora: Dolores Bengochea
+Profesora: Dolores Bengochea 6to2da G1
 
 
 ![Java](https://img.shields.io/badge/Java-8%2B-orange?logo=openjdk&logoColor=white)
