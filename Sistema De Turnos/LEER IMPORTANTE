@@ -1,0 +1,19 @@
+Hola profe, me quería comunicar desde este `.md` de forma un poco menos formal, 
+sobre todo para agradecerle por la posibilidad de pasar la defensa para otro día.
+
+En este trabajo estoy aplicando lo que aprendí a lo largo del año y también lo que 
+vengo viendo en mi curso de desarrollo backend (El de CoderHouse). 
+Me gustaría que la evaluación sea un poco más rigurosa de lo habitual para poder ver en qué mejorar.
+
+Elegí hacer un sistema de turnos porque es el mismo tipo de proyecto que estoy trabajando 
+en el curso. Cada archivo está pensado para separar responsabilidades, evitar un código difícil de leer 
+y no caer en el famoso *código espagueti*; cada parte cumple su función y todas juntas hacen que el sistema funcione.
+
+Como detalle menor: `Pantallas.java` podría ser más corto, pero preferí dejarlo así para que 
+la salida por consola resultara más amigable.
+
+Con todo esto espero que se note el esfuerzo que le puse al proyecto y poder llevarme 
+un buen feedback para seguir mejorando.
+
+Muchas gracias por su tiempo. Saludos,  
+` . Facu Lopez Mendoza :) `
