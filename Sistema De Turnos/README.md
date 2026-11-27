@@ -34,7 +34,7 @@ Permite registrar personas, asignarles turnos, **atender siempre al siguiente po
 
 Trabajo práctico de Programación que integra **programación estructurada**, **POO** (clases, constructores, encapsulamiento) y una **estructura dinámica**: una **cola FIFO**.
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 | Opción | Función | Descripción |
 |:---:|---|---|
